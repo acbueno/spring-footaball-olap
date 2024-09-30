@@ -14,6 +14,7 @@ This project is a Spring application that consumes data from an external API for
 - **Java**: The programming language used for development.
 - **REST API**: For consuming the external football data.
 - **OLAP**: For data analysis and organization.
+- **Click House DB**: For database. 
 
 ## Getting Started
 
